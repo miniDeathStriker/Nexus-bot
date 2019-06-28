@@ -1,0 +1,25 @@
+{
+  "name": "nexus-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.1.0",
+    "discord.js": "^11.5.1",
+    "fivem-api": "^1.5.0",
+    "node-opus": "^0.3.2",
+    "ping-lite": "^2.0.2",
+    "request": "^2.88.0",
+    "set-interval-async": "^1.0.23",
+    "speedtest": "^1.1.0",
+    "speedtest-net": "^1.5.1",
+    "superagent": "^5.1.0",
+    "util": "^0.12.0",
+    "ws": "^7.0.1"
+  }
+}
